@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\TabControl • 96.exe.config
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\TabControl • 96.exe
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\TabControl • 96.pdb
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl • 96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl • 96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl___96.Form1.resources
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl___96.Properties.Resources.resources
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl • 96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl • 96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl • 96.exe
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl • 96.pdb
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\TabControl • 96\TabControl • 96\obj\Debug\TabControl • 96.csproj.CopyComplete
